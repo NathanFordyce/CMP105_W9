@@ -26,7 +26,6 @@ void Level::handleInput(float dt)
 void Level::update(float dt)
 {
 	manager.update(dt);
-	std::cout << 
 }
 
 // Render level
